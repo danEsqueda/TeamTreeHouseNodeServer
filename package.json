@@ -1,0 +1,24 @@
+{
+  "name": "dynamicnodesite",
+  "version": "0.0.1",
+  "description": "dynamic node website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danEsqueda/TeamTreeHouseNodeServer.git"
+  },
+  "keywords": [
+    "dynamic",
+    "node",
+    "site"
+  ],
+  "author": "Daniel Esqueda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danEsqueda/TeamTreeHouseNodeServer/issues"
+  },
+  "homepage": "https://github.com/danEsqueda/TeamTreeHouseNodeServer#readme"
+}
